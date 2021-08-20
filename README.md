@@ -15,15 +15,23 @@ Other things to consider (and things to test for)
 =================================================
 
 Do we care if payments are over or under (very different implications)?
+
 Metrics for deviation?
+
 Is there a case for handling negative values?
 
 
 Exception handling.
+
 Type checking.
+
 Missed or skipped months.
+
 Malformed or missing data.
+
 Number formats.
+
 Very large numbers.
+
 Negative numbers.
 
